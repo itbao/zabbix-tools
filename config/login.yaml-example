@@ -1,0 +1,8 @@
+---
+login_url: http://zabbix.com/api_jsonrpc.php
+params:
+  password: Admin
+  user: zabbix
+jsonrpc: '2.0'
+method: user.login
+id: 0
